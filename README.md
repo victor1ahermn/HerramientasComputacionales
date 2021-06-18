@@ -12,7 +12,7 @@
 
   </p>
   
-  La función retorna el resultado de dicha fórmula. Su implementación en Python puede verse en el archivo "problema1.py"
+  La función retorna el resultado de dicha fórmula. ___Su implementación en Python puede verse en el archivo "problema1.py"___
   
  </ul>
  
@@ -21,10 +21,10 @@
 <ul> En el ejercicio 2 se desarrollan 4 funciones. 
   <p>
   <ol>
- <li>  La primera función consiste en calcular el perímetro de un triángulo. Recibe los parámetros "a", "b", "c", en representación de las tres distintas longitudes de los tres lados del triángulo. Su implementación se puede ver en el archivo "problema2.py". </li>
-   <li> La segunda función consiste en calcular el perímetro de un cuadrado. Recibe el parámetro "x" en representación de la longitud de los lados de un cuadrado. Su implementación puede verse en el archivo "problema2.py". </li>
-   <li>  La tercera función consiste en calcular el perímetro de un rectángulo. Recibe los parámetros "a" y "b" en representación de las dos distintas longitudes de los lados del rectángulo. Su implementación se puede ver en el archivo "problema2.py". </li>
-    <li> La segunda función consiste en calcular el perímetro de un cuadrado. Recibe el parámetro "x" en representación de la longitud de los lados de un cuadrado. Su implementación puede verse en el archivo "problema2.py". </li>
+ <li>  La primera función consiste en calcular el perímetro de un triángulo. Recibe los parámetros "a", "b", "c", en representación de las tres distintas longitudes de los tres lados del triángulo. <strong><em> Su implementación se puede ver en el archivo "problema2.py".  </li> </em></strong>
+   <li> La segunda función consiste en calcular el perímetro de un cuadrado. Recibe el parámetro "x" en representación de la longitud de los lados de un cuadrado. <strong><em> Su implementación puede verse en el archivo "problema2.py". </em></strong> </li>
+   <li>  La tercera función consiste en calcular el perímetro de un rectángulo. Recibe los parámetros "a" y "b" en representación de las dos distintas longitudes de los lados del rectángulo. <strong><em> Su implementación se puede ver en el archivo "problema2.py". </em></strong> </li>
+    <li> La segunda función consiste en calcular el perímetro de un cuadrado. Recibe el parámetro "x" en representación de la longitud de los lados de un cuadrado. <strong><em> Su implementación puede verse en el archivo "problema2.py". </em></strong> </li>
   </ol>
    
   </ul>
@@ -41,7 +41,7 @@
     
   </p>
   
-  Su implementación se puede ver en el archivo "problema3.py". </ul>
+  ___Su implementación se puede ver en el archivo "problema3.py".___ </ul>
   
   - #### Problema 4
   
@@ -56,7 +56,7 @@
  <p> 
  Tiene como entradas el sexo, la edad y las semanas trabajadas por el individuo. Como salida, en caso de cumplir con los requisitos para su sexo, imprime el mensaje "¡Felicitaciones! Está listo para pensionarse"; en caso contrario imprime los años y semanas restantes para pensionarse. </p>
   
-  La implementación del ejercicio puede verse en el archivo "ejercicio4.py".
+  ___La implementación del ejercicio puede verse en el archivo "ejercicio4.py".___
  
   </ul>
 
@@ -76,6 +76,6 @@
   <br>
 <p> La salida, en caso de que el almuerzo esté permitido, es el mensaje "¡A comer!"; en caso contrario, la salida es el mensaje "¡No puedes comer!". </p>
   
- <p> La implementación del ejercicio puede verse en el archivo "ejercicio5.py". <p/>
+ ___<p>  La implementación del ejercicio puede verse en el archivo "ejercicio5.py". <p/>___ 
  
   
